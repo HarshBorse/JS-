@@ -1,0 +1,19 @@
+<html>
+<head>
+<script type="text/javascript">
+function warm()
+{
+	alert("This is a warningMassage!");
+	document.write("this is a Warning massage!");
+}
+</script>
+</head>
+<body>
+<p>click the following button to see the result:</p>
+
+<form>
+<input type="button" value="click me" onclick="warn();"/>
+</form>
+</body>
+</html>
+

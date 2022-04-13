@@ -1,0 +1,15 @@
+<html>
+ <head>
+ <style>
+ @media print{
+				  body{
+				             color:red;
+}
+}
+</style>
+</head>
+<body>
+<p>harsh borse</p>
+</body>
+</html>
+  
